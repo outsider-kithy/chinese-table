@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+body{
+    position: relative;
+}
+h1{
+    position: absolute;
+    bottom: 1%;
+    color: #fff;
+    margin: 1.0rem;
+}
